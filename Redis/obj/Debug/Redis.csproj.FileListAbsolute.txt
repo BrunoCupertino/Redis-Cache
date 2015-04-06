@@ -1,0 +1,17 @@
+C:\Projetos\Redis\Redis\bin\Debug\Redis.exe.config
+C:\Projetos\Redis\Redis\bin\Debug\Redis.exe
+C:\Projetos\Redis\Redis\bin\Debug\Redis.pdb
+C:\Projetos\Redis\Redis\bin\Debug\EntityFramework.dll
+C:\Projetos\Redis\Redis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Redis\Redis\bin\Debug\EntityFramework.xml
+C:\Projetos\Redis\Redis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Redis\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
+C:\Projetos\Redis\Redis\obj\Debug\Redis.exe
+C:\Projetos\Redis\Redis\obj\Debug\Redis.pdb
+C:\Projetos\Redis\Redis\bin\Debug\ServiceStack.Common.dll
+C:\Projetos\Redis\Redis\bin\Debug\ServiceStack.Interfaces.dll
+C:\Projetos\Redis\Redis\bin\Debug\ServiceStack.Redis.dll
+C:\Projetos\Redis\Redis\bin\Debug\ServiceStack.Text.dll
+C:\Projetos\Redis\Redis\bin\Debug\ServiceStack.Common.xml
+C:\Projetos\Redis\Redis\bin\Debug\ServiceStack.Redis.xml
+C:\Projetos\Redis\Redis\bin\Debug\ServiceStack.Text.xml
